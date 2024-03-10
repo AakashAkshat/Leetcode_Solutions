@@ -2,6 +2,10 @@ package March_2024;
 
 import java.util.HashSet;
 
+// Using a Set data structure
+// Time Complexity: O(N)
+// Space Complexity: O(|arr1| + |arr2|)
+
 public class March_10 {
 
     class Solution {
