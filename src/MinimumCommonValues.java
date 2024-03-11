@@ -1,10 +1,8 @@
-package March_2024;
-
 // This is a two pointer approach
 // Time Complexity: O(N)
 // Space Complexity: O(1)
 
-public class March_09 {
+public class MinimumCommonValues {
 
     class Solution {
         public int getCommon(int[] nums1, int[] nums2) {
