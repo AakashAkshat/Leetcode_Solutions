@@ -28,7 +28,6 @@ public class LongestContinuousSubArrayWithAbsoluteDiffLessThanOrEqualToLimit {
                     }
                     ++left;
                 }
-
                 ans = Math.max(ans, right - left + 1);
             }
 
